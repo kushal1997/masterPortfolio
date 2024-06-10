@@ -1,47 +1,85 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
+      "name": "e-Commerce Website - CodeFair",
       "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "img": "https://my-projects-noizy.netlify.app/static/media/img1.b2121220c876af0c92e8.png",
+      "url": "https://ecommerece-website-codefair-noizy.netlify.app/",
+      "githubUrl": "https://github.com/kushal1997/code_fair",
+      "description": "🔥 An e-Commerce website with all possible functions from login, register,add to cart, payment sucess/failed to order placement and saving all of the data in a temporary backend server.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXkyNDU0NjcyNzQ=",
+      "name": "Dhamaka Movies",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://my-projects-noizy.netlify.app/static/media/img2.467d82389d1c2a0c24c3.png",
+      "url": "https://dhamaka-movies-noizy.netlify.app/",
+      "githubUrl": "https://github.com/kushal1997/dhamaka_movies",
+      "description": "🔥 A REACT website with API calls fetches upcoming, popular, and top-rated movies data. The website is responsive and adapts to various screen sizes.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXkyNDUfsdfs0NjcyNzQ=",
+      "name": "Shopping Cart Landing Page",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://my-projects-noizy.netlify.app/static/media/img4.26459ce9b84f4258e28c.png",
+      "url": "https://context-reducer-shopping-cart-noizy.netlify.app/",
+      "githubUrl": "https://github.com/kushal1997/context_reducers_project_shopping_cart",
+      "description": "🔥 This is a demo project for a shopping cart landing page that utilizes context, router, and reducers. It allows you to experiment and learn how these features work in a real-world scenario.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXkyNDUfsauhsasdfs0NjcyNzQ=",
+      "name": "Ultimate Productivity Assistant",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://my-projects-noizy.netlify.app/static/media/img3.c73de2f751b40909f108.png",
+      "url": "https://ultimate-productivity-noizy.netlify.app/",
+      "githubUrl": "https://github.com/kushal1997/ultimate-productivity-assistant",
+      "description": "🔥 This website consists of various small-daily use websites such as budget tracker, bookmark manager, Kanban-style task manager using JS.",
       "isFork": false,
       "languages": [
         {
@@ -55,19 +93,17 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "MDEwOlJlcG9zaXkyNDUfsauhasasasassasdfs0NjcyNzQ=",
+      "name": "Bookmark Manager",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://my-projects-noizy.netlify.app/static/media/img5.4dbfbef2c306ec67b718.png",
+      "url": "https://bookmark-manager-noizy.netlify.app/",
+      "githubUrl": "https://github.com/kushal1997/bookmark-manager",
+      "description": "🔥 A website to bookmark specially movies websites stored in local storage. And later can be categorized  according to youtube, netflix, Prime & others.",
       "isFork": false,
       "languages": [
         {
@@ -79,44 +115,32 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "MDEwOlJlcG9zaXkyNDUfsauhasasasasdfs0NjcyNzQ=",
+      "name": "News Portal",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://my-projects-noizy.netlify.app/static/media/img6.45a952b6a6320f847c6d.png",
+      "url": "https://news-portal-noizy.netlify.app/",
+      "githubUrl": "https://github.com/kushal1997/news-portal",
+      "description": "🔥 A website to bookmark specially movies websites stored in local storage. And later can be categorized  according to youtube, netflix, Prime & others.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
         },
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }

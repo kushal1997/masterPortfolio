@@ -18,16 +18,6 @@ export default class Main extends Component {
           <Route
             path="/"
             exact
-            render={(props) =>
-              settings.isSplash ? (
-                <Splash {...props} theme={this.props.theme} />
-              ) : (
-                <Home {...props} theme={this.props.theme} />
-              )
-            }
-          />
-          <Route
-            path="/home"
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
@@ -43,12 +33,7 @@ export default class Main extends Component {
               <Education {...props} theme={this.props.theme} />
             )}
           />
-          <Route
-            path="/opensource"
-            render={(props) => (
-              <Opensource {...props} theme={this.props.theme} />
-            )}
-          />
+
           <Route
             path="/contact"
             render={(props) => <Contact {...props} theme={this.props.theme} />}

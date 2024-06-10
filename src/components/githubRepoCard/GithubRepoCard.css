@@ -2,8 +2,9 @@
   color: rgb(88, 96, 105);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
   padding: 2rem;
-  cursor: pointer;
   flex: 1 1 25%;
+  width: 200px;
+  height: 433px;
 }
 .repo-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
@@ -41,6 +42,7 @@
 .repo-name-div {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .repo-svg {
@@ -78,6 +80,7 @@
 .repo-details {
   display: flex;
   flex-direction: row;
+  justify-content: space-between;
 }
 
 .repo-creation-date {
