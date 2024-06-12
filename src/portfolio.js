@@ -69,12 +69,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "MERN Stack Development",
+      title: "Frontend Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using React Native",
-        "⚡ Creating application backend in Node, Express",
+        "⚡ Expert in building responsive and dynamic web interfaces with HTML5, CSS3, and JavaScript.",
+        "⚡ Proficient in developing robust frontend applications using ReactJS, Redux, and Material UI.",
+        "⚡ Skilled in leveraging modern UI frameworks like Tailwind CSS, Bootstrap, and Chakra UI for sleek, user-friendly designs",
       ],
       softwareSkills: [
         {
@@ -89,6 +89,20 @@ const skills = {
           fontAwesomeClassname: "fa-css3",
           style: {
             color: "#1572B6",
+          },
+        },
+        {
+          skillName: "Tailwind CSS",
+          fontAwesomeClassname: "skill-icons:tailwindcss-dark",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Bootstrap",
+          fontAwesomeClassname: "devicon:bootstrap",
+          style: {
+            color: "#9013fe",
           },
         },
         {
@@ -107,10 +121,77 @@ const skills = {
           },
         },
         {
+          skillName: "Redux",
+          fontAwesomeClassname: "devicon:redux",
+          style: {
+            color: "#764abc",
+          },
+        },
+        {
+          skillName: "Expo CLI",
+          fontAwesomeClassname: "vscode-icons:file-type-expo",
+          style: {
+            color: "#4630eb",
+          },
+        },
+        {
+          skillName: "Native CLI",
+          fontAwesomeClassname: "tabler:brand-react-native",
+          style: {
+            color: "#56d0d2",
+          },
+        },
+        {
+          skillName: "Vite.js",
+          fontAwesomeClassname: "logos:vitejs",
+          style: {
+            color: "#56d0d2",
+          },
+        },
+        {
+          skillName: "Material UI",
+          fontAwesomeClassname: "skill-icons:materialui-dark",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Chakra UI",
+          fontAwesomeClassname: "devicon:chakraui",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+      ],
+    },
+    {
+      title: "Backend Development",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Proficient in building scalable server-side applications using NodeJS and Express JS",
+        "⚡ Experienced in implementing secure authentication with Passport JWT and managing dependencies with NPM.",
+        "⚡ Skilled in API development and testing using Postman, ensuring robust backend solutions.",
+      ],
+      softwareSkills: [
+        {
           skillName: "NodeJS",
           fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
           style: {
             color: "#339933",
+          },
+        },
+        {
+          skillName: "Express JS",
+          fontAwesomeClassname: "skill-icons:expressjs-dark",
+          style: {
+            color: "#242938",
+          },
+        },
+        {
+          skillName: "Passport JWT",
+          fontAwesomeClassname: "logos:jwt-icon",
+          style: {
+            color: "#CB3837",
           },
         },
         {
@@ -120,15 +201,23 @@ const skills = {
             color: "#CB3837",
           },
         },
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "logos:postman-icon",
+          style: {
+            color: "#ff6c37",
+          },
+        },
       ],
     },
+
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
+        "⚡ Experienced in deploying and managing applications on AWS and Firebase platforms.",
+        "⚡ Proficient in utilizing MongoDB for scalable and efficient NoSQL database solutions.",
+        "⚡ Skilled in web hosting and server management with cPanel, ensuring reliable application performance.",
       ],
       softwareSkills: [
         {
@@ -155,10 +244,10 @@ const skills = {
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: " fa-cpanel",
+          skillName: "cPanel",
+          fontAwesomeClassname: "cib:cpanel",
           style: {
-            color: "#808080",
+            color: "#ff6c2c",
           },
         },
       ],
@@ -401,7 +490,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "kushal_rao.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with React,Redux,Node JS,Mongo DB,React Native",
   },
