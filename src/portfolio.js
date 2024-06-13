@@ -25,8 +25,9 @@ const greeting = {
   subTitle:
     "With 2 years of experience as a Frontend developer, engaged in diverse projects within a dynamic startup landscape, and delivered innovative web solutions.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/1a97QUz_sleP1LGMog6oNsU1zfufokdTI/view?usp=sharing",
   githubProfile: "https://github.com/kushal1997",
+  portfolio_repository: "https://github.com/kushal1997",
 };
 
 const socialMediaLinks = [
