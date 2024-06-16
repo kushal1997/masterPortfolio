@@ -70,8 +70,8 @@
   flex-direction: row;
   flex-wrap: wrap;
   gap: 1rem 1rem;
-  margin-left: 40px;
-  margin-right: 40px;
+  justify-content: center;
+  align-items: center;
   margin-top: 60px;
 }
 

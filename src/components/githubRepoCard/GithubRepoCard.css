@@ -1,10 +1,9 @@
 .repo-card-div {
   color: rgb(88, 96, 105);
   box-shadow: rgba(0, 0, 0, 0.2) 0px 10px 30px -15px;
-  padding: 2rem;
-  flex: 1 1 25%;
-  width: 200px;
-  height: 433px;
+  padding: 0.5rem 2rem;
+  width: 384px;
+  height: 401px;
 }
 .repo-card-div:hover {
   box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px -10px;
@@ -51,6 +50,7 @@
 }
 
 .repo-name {
+  /* Existing styles */
   text-align: left;
   color: rgb(36, 41, 46);
   font-family: "Google Sans Regular";
@@ -58,9 +58,44 @@
   font-size: 25px;
   font-weight: 700;
   letter-spacing: -0.5px;
-  overflow: hidden;
-  line-height: 1.2;
-  margin: 0px;
+  /* ... other styles */
+
+  /* Truncation and hover behavior */
+  display: -webkit-box; /* Safari, Chrome, etc. */
+  -webkit-line-clamp: 1; /* Safari, Chrome, etc. */
+  -webkit-box-orient: vertical; /* Safari, Chrome, etc. */
+  overflow: hidden; /* Clip content that overflows */
+
+  /* Hover state styles */
+  cursor: pointer; /* Indicate hover interaction */
+  transition: all 0.2s ease-in-out; /* Smooth transition */
+
+  /* Removed unnecessary properties */
+  /* margin: 0px;  */ /* Not needed for truncation */
+  /* line-height: 1.2;  */ /* Not needed for truncation */
+
+  /* Define a pseudo-element for the full text display */
+  &::after {
+    content: attr(data-full-text); /* Use data attribute to store full text */
+    display: none; /* Initially hidden */
+    padding: 8px; /* Add padding for visual separation */
+    background-color: black;
+    color: white; /* Ensure text is visible on black background */
+    position: absolute; /* Position below the main content */
+    top: 15%; /* Start below the element */
+    left: 0; /* Align with the left edge */
+    width: 100%; /* Match container width */
+    text-align: left; /* Maintain left alignment */
+    white-space: normal; /* Allow text wrapping */
+    z-index: 1; /* Ensure tooltip is above other elements */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    font-size: large;
+  }
+
+  /* Show full text on hover */
+  &:hover::after {
+    display: block; /* Make it visible */
+  }
 }
 
 .repo-star-svg {
@@ -81,6 +116,7 @@
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
 }
 
 .repo-creation-date {
@@ -98,13 +134,26 @@
 
 @media (max-width: 1200px) {
   .repo-card-div {
-    flex: 1 1 40%;
+    /* flex: 1 1 40%; */
   }
 }
-
-@media (max-width: 768px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .repo-card-div {
-    flex: 1 1 100%;
+    margin-left: 40px;
+    margin-right: 40px;
+    /* flex: 1 1 100%; */
+    width: 581px;
+    height: 480px;
+  }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  .repo-card-div {
+    /* margin-left: 40px;
+    margin-right: 40px;
+    margin-left: 10px;
+    margin-right: 10px; */
+    width: 312px;
+    height: 367px;
   }
 
   .repo-name {
