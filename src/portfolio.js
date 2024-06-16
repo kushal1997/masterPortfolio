@@ -222,18 +222,18 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "AWS S3 Bucket",
+          fontAwesomeClassname: "logos:aws-s3",
           style: {
-            color: "#FF9900",
+            color: "#1b660f",
           },
         },
 
         {
           skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
+          fontAwesomeClassname: "devicon:firebase",
           style: {
-            color: "#FFCA28",
+            color: "#ffa000",
           },
         },
 
