@@ -312,24 +312,24 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Veer Surendra Sai University of Technology",
-      subtitle: "M.Tech. in Power System Engineering (7.70 CGPA)",
+      title: "Trident Academy of Technology - Bhubaneswar, OD ",
+      subtitle: "Master of Computer Applications (8.00 CGPA)",
       logo_path: "iiitk_logo.png",
-      alt_name: "VSSUT Burla",
-      duration: "2020 - 2022",
+      alt_name: "TAT Bhubaneswar",
+      duration: "2019 - 2021",
       descriptions: [
         "⚡ I have specialized in advanced topics such as Power System Dynamics, Renewable Energy Systems, and Smart Grid Technologies.",
         "⚡ Completed hands-on projects on Power System Simulation, Load Flow Analysis, and Power Quality Improvement.",
         "⚡ Successfully implemented a thesis project on the integration of distributed generation in microgrids.",
       ],
-      website_link: "https://www.vssut.ac.in/",
+      website_link: "https://www.tat.ac.in/",
     },
     {
-      title: "Veer Surendra Sai University of Technology",
-      subtitle: "B.Tech. in Electrical Engineering (6.50 CGPA)",
-      logo_path: "iiitk_logo.png",
-      alt_name: "VSSUT Burla",
-      duration: "2016 - 2022",
+      title: "Bhadrak Autonomous College - Bhadrak, OD",
+      subtitle: "|Bachelor of Computer Applications (72%)",
+      logo_path: "bhadrak.png",
+      alt_name: "BAC Bhadrak",
+      duration: "2016 - 2019",
       descriptions: [
         "⚡ Acquired a solid foundation in core electrical engineering subjects such as Circuit Analysis, Electromagnetic Theory, and Control Systems.",
         "⚡ Built a portable refrigerator for my major project, demonstrating innovation and practical application of theoretical knowledge.",
@@ -342,30 +342,30 @@ const degrees = {
 
 const certifications = {
   certifications: [
-    {
-      title: "React JS",
-      logo_path: "stanford_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1PWSvrPbYcA4kGo3bS7bryx-blz7JvQOf/view",
-      alt_name: "React JS",
-      color_code: "rgb(102 166 230 / 28%)",
-    },
-    {
-      title: "Javascript",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/1WwsalQnkWnRwWdmSu938nR0TzrPz_rFV/view",
-      alt_name: "deeplearning.ai",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Programmable Logic Control (PLC) ",
-      logo_path: "plc.png",
-      certificate_link:
-        "https://drive.google.com/file/d/10oZgsolbAQuECBs72d7WnqkCLoP8l0JJ/view?usp=sharing",
-      alt_name: "Programmable Logic Control",
-      color_code: "#808080",
-    },
+    // {
+    //   title: "React JS",
+    //   logo_path: "stanford_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/1PWSvrPbYcA4kGo3bS7bryx-blz7JvQOf/view",
+    //   alt_name: "React JS",
+    //   color_code: "rgb(102 166 230 / 28%)",
+    // },
+    // {
+    //   title: "Javascript",
+    //   logo_path: "deeplearning_ai_logo.png",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/1WwsalQnkWnRwWdmSu938nR0TzrPz_rFV/view",
+    //   alt_name: "deeplearning.ai",
+    //   color_code: "#D83B0199",
+    // },
+    // {
+    //   title: "Programmable Logic Control (PLC) ",
+    //   logo_path: "plc.png",
+    //   certificate_link:
+    //     "https://drive.google.com/file/d/10oZgsolbAQuECBs72d7WnqkCLoP8l0JJ/view?usp=sharing",
+    //   alt_name: "Programmable Logic Control",
+    //   color_code: "#808080",
+    // },
   ],
 };
 
@@ -386,7 +386,7 @@ const experience = {
           company: "Daya Consultancy Services (OPC) Pvt. Ltd.",
           company_url: "https://www.dayacs.com/",
           logo_path: "tiktok_logo.png",
-          duration: "Nov 2022 - Present",
+          duration: "Sep 2022 - Present",
           location: "Bhubaneswar, Odisha",
           description:
             "Led UI development for E-Learning platforms at Eduzest Software Pvt. Ltd. using React.js, Tailwind CSS, Chakra UI, and Context API, boosting user engagement by 30%. Developed calendar logic and APIs for employee timesheets. Created an Application Tracking System frontend with Material UI and Redux, enhancing recruitment efficiency by 50%.",
@@ -397,7 +397,7 @@ const experience = {
           company: "Eduzest Software Pvt. Ltd",
           company_url: "http://www.eduzestsoftware.com/",
           logo_path: "legato_logo.png",
-          duration: "May 2022 - Nov 2022",
+          duration: "Apr 2022 - Aug 2022",
           location: "Bhubaneswar, Odisha",
           description:
             "I was working on static webb-page designs. Crafted engaging user interfaces with Figma, paying meticulous attention to detail. Collaborated with the development team to implement responsive and user-friendly designs. Worked effectively in a small company environment",
