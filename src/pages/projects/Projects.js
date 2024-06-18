@@ -25,13 +25,6 @@ class Projects extends Component {
         <div className="basic-projects">
           <Fade bottom duration={2000} distance="40px">
             <div className="projects-heading-div">
-              <div className="projects-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${projectsHeader["avatar_image_path"]}`)}
-											alt=""
-										/> */}
-                <ProjectsImg theme={theme} />
-              </div>
               <div className="projects-heading-text-div">
                 <h1
                   className="projects-heading-text"
@@ -45,6 +38,14 @@ class Projects extends Component {
                 >
                   {projectsHeader["description"]}
                 </p>
+              </div>
+
+              <div className="projects-heading-img-div">
+                <img
+                  src={require(`../../assests/images/projects_pic.png`)}
+                  alt=""
+                />
+                {/* <ProjectsImg theme={theme} /> */}
               </div>
             </div>
           </Fade>
