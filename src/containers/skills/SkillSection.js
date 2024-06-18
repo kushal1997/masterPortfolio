@@ -10,12 +10,32 @@ import DesignImg from "./DesignImg";
 
 function GetSkillSvg(props) {
   if (props.fileName === "DataScienceImg")
-    return <DataScienceImg theme={props.theme} />;
+    return (
+      <img
+        alt="Ashutosh is Analysing Data"
+        src={require(`../../assests/images/backEnd_Pic.png`)}
+      ></img>
+    );
   else if (props.fileName === "FullStackImg")
-    return <FullStackImg theme={props.theme} />;
+    return (
+      <img
+        alt="Ashutosh is Analysing Data"
+        src={require(`../../assests/images/frontEnd_pic.png`)}
+      ></img>
+    );
   else if (props.fileName === "CloudInfraImg")
-    return <CloudInfraImg theme={props.theme} />;
-  return <DesignImg theme={props.theme} />;
+    return (
+      <img
+        alt="Ashutosh is Analysing Data"
+        src={require(`../../assests/images/frontEnd_pic.png`)}
+      ></img>
+    );
+  return (
+    <img
+      alt="Ashutosh is Analysing Data"
+      src={require(`../../assests/images/frontEnd_pic.png`)}
+    ></img>
+  );
 }
 
 class SkillSection extends Component {
