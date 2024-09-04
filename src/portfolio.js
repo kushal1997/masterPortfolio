@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "U Kushal Rao Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://www.noizyboy.cloud/",
   },
 };
 
@@ -387,23 +387,23 @@ const experience = {
           company: "Daya Consultancy Services (OPC) Pvt. Ltd.",
           company_url: "https://www.dayacs.com/",
           logo_path: "tiktok_logo.png",
-          duration: "Nov 2022 - Present",
+          duration: "Aug 2022 - Present",
           location: "Bhubaneswar, Odisha",
           description:
             "Led UI development for E-Learning platforms at Eduzest Software Pvt. Ltd. using React.js, Tailwind CSS, Chakra UI, and Context API, boosting user engagement by 30%. Developed calendar logic and APIs for employee timesheets. Created an Application Tracking System frontend with Material UI and Redux, enhancing recruitment efficiency by 50%.",
           color: "#000000",
         },
-        {
-          title: " UI Developer",
-          company: "Eduzest Software Pvt. Ltd",
-          company_url: "http://www.eduzestsoftware.com/",
-          logo_path: "legato_logo.png",
-          duration: "May 2022 - Nov 2022",
-          location: "Bhubaneswar, Odisha",
-          description:
-            "I was working on static webb-page designs. Crafted engaging user interfaces with Figma, paying meticulous attention to detail. Collaborated with the development team to implement responsive and user-friendly designs. Worked effectively in a small company environment",
-          color: "#0879bf",
-        },
+        // {
+        //   title: " UI Developer",
+        //   company: "Eduzest Software Pvt. Ltd",
+        //   company_url: "http://www.eduzestsoftware.com/",
+        //   logo_path: "legato_logo.png",
+        //   duration: "May 2022 - Nov 2022",
+        //   location: "Bhubaneswar, Odisha",
+        //   description:
+        //     "I was working on static webb-page designs. Crafted engaging user interfaces with Figma, paying meticulous attention to detail. Collaborated with the development team to implement responsive and user-friendly designs. Worked effectively in a small company environment",
+        //   color: "#0879bf",
+        // },
       ],
     },
     {
@@ -414,7 +414,7 @@ const experience = {
           company: "Daya Consultancy Services (OPC) Pvt. Ltd.",
           company_url: "https://www.dayacs.com/",
           logo_path: "tiktok_logo.png",
-          duration: "Oct 2022 - Nov 2022",
+          duration: "Jun 2022 - July 2022",
           location: "Bhubaneswar, Odisha",
           description:
             "During my internship, I rapidly acquired proficiency in JavaScript through an intensive crash course. I then took on and completed a series of small-scale projects. I collaborated with team members to enhance my learning experience and contributed to various aspects of project development, showcasing my adaptability and commitment to continuous improvement.",
