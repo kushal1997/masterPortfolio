@@ -3,7 +3,7 @@ export const blueTheme = {
   body: "#EDF9FE",
   text: "#001C55",
   expTxtColor: "#000a12",
-  highlight: "#A6E1FA",
+  highlight: "rgb(166 225 250 / 50%)",
   dark: "#00072D",
   secondaryText: "#7F8DAA",
   imageHighlight: "#0E6BA8",

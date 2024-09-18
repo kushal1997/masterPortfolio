@@ -1,6 +1,98 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcGasas9RvcnkysdsNasasDU0NjcyNzQ=",
+      "name": "Mingle Pics ",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://firebasestorage.googleapis.com/v0/b/project-pics-1ec06.appspot.com/o/mingle%20pics.jpg?alt=media&token=526a08a1-a4c5-497c-98eb-bdae05ed95c8",
+      "url": "https://mingle-pics.noizyboy.cloud/",
+      "githubUrl": "https://github.com/kushal1997/mingle_pics",
+      "description": "🔥 A streamlined legal research platform using React, Chakra UI, and Redux, enabling efficient case management and file uploads with real-time status tracking and AI-driven insights.",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "logos:firebase"
+        },
+        {
+          "name": "TypeScript",
+          "iconifyClass": "skill-icons:typescript"
+        },
+        {
+          "name": "shadcn/ui",
+          "iconifyClass": "simple-icons:shadcnui"
+        },
+        {
+          "name": "PostCSS",
+          "iconifyClass": "logos:postcss"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "skill-icons:redux"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcGasas9RvcnkyNasasDU0NjcyNzQ=",
+      "name": "AI-driven Legal Research Dashboard",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://firebasestorage.googleapis.com/v0/b/project-pics-1ec06.appspot.com/o/advocase.jpg?alt=media&token=baa3879d-a32c-4cbb-942a-bc51cce32b33",
+      "url": "https://advoscreen.noizyboy.cloud/",
+      "githubUrl": "https://github.com/kushal1997/advoscreen",
+      "description": "🔥 A streamlined legal research platform using React, Chakra UI, and Redux, enabling efficient case management and file uploads with real-time status tracking and AI-driven insights.",
+      "isFork": true,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Chakra Ui",
+          "iconifyClass": "devicon:chakraui"
+        },
+        {
+          "name": "Redux",
+          "iconifyClass": "skill-icons:redux"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNasasDU0NjcyNzQ=",
+      "name": "Analyst UI",
+      "createdAt": "2020-03-06T16:26:54Z",
+      "img": "https://firebasestorage.googleapis.com/v0/b/project-pics-1ec06.appspot.com/o/Admin%20Dashboard.jpg?alt=media&token=338ba9c9-dae9-4e39-aa90-71436f34aa54",
+      "url": "https://admin-analyst-tool.noizyboy.cloud/",
+      "githubUrl": "https://github.com/kushal1997/analyst_ui",
+      "description": "🔥 A responsive shopping cart admin dashboard with React and Tailwind CSS, featuring dynamic data visualization and intuitive user management",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "React",
+          "iconifyClass": "vscode-icons:file-type-reactjs"
+        },
+        {
+          "name": "Tailwind CSS",
+          "iconifyClass": "skill-icons:tailwindcss-dark"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "e-Commerce Website - CodeFair",
       "createdAt": "2020-03-06T16:26:54Z",
