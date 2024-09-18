@@ -387,7 +387,7 @@ const experience = {
           company: "Daya Consultancy Services (OPC) Pvt. Ltd.",
           company_url: "https://www.dayacs.com/",
           logo_path: "tiktok_logo.png",
-          duration: "June 2022 - Present",
+          duration: "Aug 2022 - Present",
           location: "Bhubaneswar, Odisha",
           description:
             "Led UI development for E-Learning platforms at Eduzest Software Pvt. Ltd. using React.js, Tailwind CSS, Chakra UI, and Context API, boosting user engagement by 30%. Developed calendar logic and APIs for employee timesheets. Created an Application Tracking System frontend with Material UI and Redux, enhancing recruitment efficiency by 50%.",
