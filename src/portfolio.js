@@ -115,6 +115,13 @@ const skills = {
           },
         },
         {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "skill-icons:typescript",
+          style: {
+            color: "#F7DF1E",
+          },
+        },
+        {
           skillName: "ReactJS",
           fontAwesomeClassname: "simple-icons:react",
           style: {
@@ -161,6 +168,27 @@ const skills = {
           fontAwesomeClassname: "devicon:chakraui",
           style: {
             color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Shadcn UI",
+          fontAwesomeClassname: "simple-icons:shadcnui",
+          style: {
+            color: "#161616",
+          },
+        },
+        {
+          skillName: "Mantine UI",
+          fontAwesomeClassname: "logos:mantine-icon",
+          style: {
+            color: "#339af0",
+          },
+        },
+        {
+          skillName: "Ant Design",
+          fontAwesomeClassname: "devicon:antdesign",
+          style: {
+            color: "#339af0",
           },
         },
       ],
