@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kushal's Portfolio",
   description:
-    "With 2 years of experience as a React.js frontend developer, engaged in diverse projects within a dynamic startup landscape, led teams, guided developers and interns, and delivered innovative, high-quality web solutions.",
+    "With 2 years of experience as a React.js fullstack developer, engaged in diverse projects within a dynamic startup landscape, led teams, guided developers and interns, and delivered innovative, high-quality web solutions.",
   og: {
     title: "U Kushal Rao Portfolio",
     type: "website",
@@ -21,9 +21,9 @@ const seo = {
 const greeting = {
   title: "U KUSHAL RAO",
   logo_name: "Kushal Rao",
-  nickname: "FrontEnd Developer",
+  nickname: "FullStack Developer",
   subTitle:
-    "With 2 years of experience as a Frontend developer, engaged in diverse projects within a dynamic startup landscape, and delivered innovative web solutions.",
+    "With 2 years of experience as a FullStack developer, engaged in diverse projects within a dynamic startup landscape, and delivered innovative web solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1a97QUz_sleP1LGMog6oNsU1zfufokdTI/view?usp=sharing",
   githubProfile: "https://github.com/kushal1997",
@@ -411,11 +411,11 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: " Frontend Developer",
+          title: " FullStack Developer",
           company: "Daya Consultancy Services (OPC) Pvt. Ltd.",
           company_url: "https://www.dayacs.com/",
           logo_path: "tiktok_logo.png",
-          duration: "Aug 2022 - Present",
+          duration: "July 2022 - Present",
           location: "Bhubaneswar, Odisha",
           description:
             "Led UI development for E-Learning platforms at Eduzest Software Pvt. Ltd. using React.js, Tailwind CSS, Chakra UI, and Context API, boosting user engagement by 30%. Developed calendar logic and APIs for employee timesheets. Created an Application Tracking System frontend with Material UI and Redux, enhancing recruitment efficiency by 50%.",
