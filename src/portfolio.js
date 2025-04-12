@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kushal's Portfolio",
   description:
-    "With 2 years of experience as a React.js fullstack developer, engaged in diverse projects within a dynamic startup landscape, led teams, guided developers and interns, and delivered innovative, high-quality web solutions.",
+    "With 1.9 years of experience as a React.js fullstack developer, engaged in diverse projects within a dynamic startup landscape, led teams, guided developers and interns, and delivered innovative, high-quality web solutions.",
   og: {
     title: "U Kushal Rao Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Kushal Rao",
   nickname: "FullStack Developer",
   subTitle:
-    "With 2 years of experience as a FullStack developer, engaged in diverse projects within a dynamic startup landscape, and delivered innovative web solutions.",
+    "With 1.9 years of experience as a React.js fullstack developer, engaged in diverse projects within a dynamic startup landscape, and delivered innovative web solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1a97QUz_sleP1LGMog6oNsU1zfufokdTI/view?usp=sharing",
   githubProfile: "https://github.com/kushal1997",
@@ -415,7 +415,7 @@ const experience = {
           company: "Daya Consultancy Services (OPC) Pvt. Ltd.",
           company_url: "https://www.dayacs.com/",
           logo_path: "tiktok_logo.png",
-          duration: "July 2022 - Present",
+          duration: "June 2023 - Dec 2024",
           location: "Bhubaneswar, Odisha",
           description:
             "Led UI development for E-Learning platforms at Eduzest Software Pvt. Ltd. using React.js, Tailwind CSS, Chakra UI, and Context API, boosting user engagement by 30%. Developed calendar logic and APIs for employee timesheets. Created an Application Tracking System frontend with Material UI and Redux, enhancing recruitment efficiency by 50%.",
@@ -442,7 +442,7 @@ const experience = {
           company: "Daya Consultancy Services (OPC) Pvt. Ltd.",
           company_url: "https://www.dayacs.com/",
           logo_path: "tiktok_logo.png",
-          duration: "Jun 2022 - July 2022",
+          duration: "March 2023 - May 2023",
           location: "Bhubaneswar, Odisha",
           description:
             "During my internship, I rapidly acquired proficiency in JavaScript through an intensive crash course. I then took on and completed a series of small-scale projects. I collaborated with team members to enhance my learning experience and contributed to various aspects of project development, showcasing my adaptability and commitment to continuous improvement.",
